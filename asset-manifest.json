@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "//yellow-van-productions.github.io/star-viewer-build/static/css/main.4efb37a3.css",
-    "main.js": "//yellow-van-productions.github.io/star-viewer-build/static/js/main.d5ad080d.js",
-    "static/js/206.f33bf4c7.chunk.js": "//yellow-van-productions.github.io/star-viewer-build/static/js/206.f33bf4c7.chunk.js",
-    "index.html": "//yellow-van-productions.github.io/star-viewer-build/index.html"
+    "main.css": "/yellowvanproductions-testapp.com/static/css/main.4efb37a3.css",
+    "main.js": "/yellowvanproductions-testapp.com/static/js/main.f97299df.js",
+    "static/js/206.f33bf4c7.chunk.js": "/yellowvanproductions-testapp.com/static/js/206.f33bf4c7.chunk.js",
+    "index.html": "/yellowvanproductions-testapp.com/index.html"
   },
   "entrypoints": [
     "static/css/main.4efb37a3.css",
-    "static/js/main.d5ad080d.js"
+    "static/js/main.f97299df.js"
   ]
 }

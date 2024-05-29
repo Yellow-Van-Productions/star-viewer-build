@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/yellowvanproductions-testapp.com/static/css/main.4efb37a3.css",
-    "main.js": "/yellowvanproductions-testapp.com/static/js/main.f97299df.js",
-    "static/js/206.f33bf4c7.chunk.js": "/yellowvanproductions-testapp.com/static/js/206.f33bf4c7.chunk.js",
-    "index.html": "/yellowvanproductions-testapp.com/index.html"
+    "main.css": "/static/css/main.4efb37a3.css",
+    "main.js": "/static/js/main.a93970d8.js",
+    "static/js/206.f33bf4c7.chunk.js": "/static/js/206.f33bf4c7.chunk.js",
+    "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.4efb37a3.css",
-    "static/js/main.f97299df.js"
+    "static/js/main.a93970d8.js"
   ]
 }
